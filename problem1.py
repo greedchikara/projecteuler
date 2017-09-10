@@ -1,3 +1,4 @@
+https://projecteuler.net/problem=1
 # simplest solution
 i = 1
 sum = 0
